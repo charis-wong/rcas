@@ -5,7 +5,7 @@ To use this package, you will need to install it directly from GitHub.
 
 ```
 library(devtools)
-install_github("charis-wong/rcas)
+install_github("charis-wong/rcas")
 library(rcas)
 
 getCAS("paracetamol")
