@@ -4,7 +4,7 @@ Title: RCAS - get CAS numbers for drug/chemical names from drug and chemical dat
 Version: 0.0.1.0
 Encoding: UTF-8
 RoxygenNote: 7.2.3
-Imports: 
+Depends: 
   readxl,
   stringr,
   rvest,
