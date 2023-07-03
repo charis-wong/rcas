@@ -1,0 +1,14 @@
+Package: rcas
+Type: Package
+Title: RCAS - get CAS numbers for drug/chemical names from drug and chemical databases
+Version: 0.0.1.0
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Imports: 
+  readxl,
+  rvest,
+  tidyr,
+  xml2,
+  httr,
+  jsonlite,
+  dplyr
